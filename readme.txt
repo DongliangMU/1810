@@ -2,7 +2,7 @@
 没有
 asd
 tststst
-<<<<<<< HEAD
+
 快速创建分支
 啥打法是否撒发顺丰
 sfasdfs
